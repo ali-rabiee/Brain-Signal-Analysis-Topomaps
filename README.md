@@ -1,5 +1,4 @@
 # Brain-Signal-Analysis-Topomaps
-# EEG Data Analysis and Visualization
 
 ## Overview
 
